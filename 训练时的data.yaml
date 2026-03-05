@@ -1,9 +1,0 @@
-#train: images/train/images
-#val: images/valid/images
-#test: images/test/images
-
-kpt_shape: [1, 3]
-flip_idx: [0]
-
-nc: 2
-names: ['enemy', 'teammate']
